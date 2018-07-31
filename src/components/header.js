@@ -84,7 +84,7 @@ class Header extends Component {
 
 const HeaderWrapper = styled.div`
   position: relative;
-  height: ${({isHome}) => (isHome ? '60vh' : '20vh')}
+  height: ${({isHome}) => (isHome ? '60vh' : '20vh')};
   overflow: hidden;
   background: #03344a;
   margin-bottom: 1.45rem;
