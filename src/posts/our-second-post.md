@@ -11,6 +11,6 @@ Church-key tumblr literally, stumptown flexitarian cornhole fixie raw denim post
 * in markdown
 * awesome
 
-![search Lovestories](/static/assets/screen-shot-2018-07-09-at-15.53.44.png)
+![search Lovestories](/assets/screenshot.png)
 
 Gentrify blue bottle chia tattooed taiyaki austin yuccie subway tile vice cliche selfies VHS PBR&B sartorial. Ugh asymmetrical put a bird on it gluten-free, fashion axe mixtape raw denim squid drinking vinegar. Trust fund schlitz poke before they sold out XOXO man bun chia man braid disrupt gochujang. Organic squid cold-pressed listicle master cleanse street art etsy. Kitsch squid swag seitan pabst tattooed literally vinyl, schlitz you probably haven't heard of them photo booth live-edge pug fingerstache twee.
